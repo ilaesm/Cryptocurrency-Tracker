@@ -1,6 +1,8 @@
 
 # Crypto Tracker
 
+demo: https://crypto-tracker-cyan-omega.vercel.app/
+
 A cryptocurrency tracker using the CoinGecko API.
 
 
